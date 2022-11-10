@@ -1,0 +1,15 @@
+C:\Users\shanv\source\BootCamp_Repo\Roshambo\Roshambo\bin\Debug\net6.0\Roshambo.exe
+C:\Users\shanv\source\BootCamp_Repo\Roshambo\Roshambo\bin\Debug\net6.0\Roshambo.deps.json
+C:\Users\shanv\source\BootCamp_Repo\Roshambo\Roshambo\bin\Debug\net6.0\Roshambo.runtimeconfig.json
+C:\Users\shanv\source\BootCamp_Repo\Roshambo\Roshambo\bin\Debug\net6.0\Roshambo.dll
+C:\Users\shanv\source\BootCamp_Repo\Roshambo\Roshambo\bin\Debug\net6.0\Roshambo.pdb
+C:\Users\shanv\source\BootCamp_Repo\Roshambo\Roshambo\obj\Debug\net6.0\Roshambo.csproj.AssemblyReference.cache
+C:\Users\shanv\source\BootCamp_Repo\Roshambo\Roshambo\obj\Debug\net6.0\Roshambo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shanv\source\BootCamp_Repo\Roshambo\Roshambo\obj\Debug\net6.0\Roshambo.AssemblyInfoInputs.cache
+C:\Users\shanv\source\BootCamp_Repo\Roshambo\Roshambo\obj\Debug\net6.0\Roshambo.AssemblyInfo.cs
+C:\Users\shanv\source\BootCamp_Repo\Roshambo\Roshambo\obj\Debug\net6.0\Roshambo.csproj.CoreCompileInputs.cache
+C:\Users\shanv\source\BootCamp_Repo\Roshambo\Roshambo\obj\Debug\net6.0\Roshambo.dll
+C:\Users\shanv\source\BootCamp_Repo\Roshambo\Roshambo\obj\Debug\net6.0\refint\Roshambo.dll
+C:\Users\shanv\source\BootCamp_Repo\Roshambo\Roshambo\obj\Debug\net6.0\Roshambo.pdb
+C:\Users\shanv\source\BootCamp_Repo\Roshambo\Roshambo\obj\Debug\net6.0\Roshambo.genruntimeconfig.cache
+C:\Users\shanv\source\BootCamp_Repo\Roshambo\Roshambo\obj\Debug\net6.0\ref\Roshambo.dll
